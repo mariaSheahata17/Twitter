@@ -1,6 +1,7 @@
-# Project 3 - *Name of App Here*
+# **Twitter** ![twiiter-logo-20@2x](https://user-images.githubusercontent.com/49815957/95634372-c2b4e680-0a57-11eb-80c4-f74d676a2c7f.png)
 
-**Name of your app** is a basic twitter app to read your tweets.
+
+**Twitter** is a basic twitter app to read your tweets.
 
 Time spent: **X** hours spent in total
 
