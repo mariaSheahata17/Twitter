@@ -11,7 +11,6 @@ import UIKit
 class HomeTableTableViewController: UITableViewController {
 
     var tweetArray = [NSDictionary]()
-    var isLoading = false
     var numOfTweets: Int!
     let myRefreshControl = UIRefreshControl()
     
