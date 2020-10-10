@@ -48,9 +48,7 @@ class HomeTableTableViewController: UITableViewController {
     
     func loadMoreTweets(){
         
-        if !self.isLoading {
-          self.isLoading = true
-        }
+
         let myURL = "https://api.twitter.com/1.1/statuses/home_timeline.json"
         numOfTweets = numOfTweets + 20
         let myParams = ["count": numOfTweets]
