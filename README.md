@@ -1,24 +1,23 @@
-# **Twitter** ![twiiter-logo-20@2x](https://user-images.githubusercontent.com/49815957/95634372-c2b4e680-0a57-11eb-80c4-f74d676a2c7f.png)
+# ![twiiter-logo-20@2x](https://user-images.githubusercontent.com/49815957/95634372-c2b4e680-0a57-11eb-80c4-f74d676a2c7f.png) **Twitter** 
 
 
 **Twitter** is a basic twitter app to read your tweets.
 
-Time spent: **X** hours spent in total
+Time spent: **8** hours spent in total
 
 ## User Stories
 
 The following **required** functionality is completed:
 
-- [ ] User sees app icon in home screen and styled launch screen. (1pt)
-- [ ] User can log in. (1pt)
-- [ ] User can log out. (1pt)
-- [ ] User stays logged in across restarts. (1pt)
-- [ ] User can view tweets with the user profile picture, username, and tweet text. (6pts)
+- [x] User sees app icon in home screen and styled launch screen. 
+- [x] User can log in. 
+- [x] User can log out. (
+- [x] User stays logged in across restarts. 
+- [x] User can view tweets with the user profile picture, username, and tweet text. 
 
 The following **bonus** features are implemented:
 
-- [ ] User can pull to refresh. (1pt)
-- [ ] User can load past tweets infinitely. (2pts)
+- [x] User can pull to refresh. (1pt)
 
 ## Video Walkthrough
 
