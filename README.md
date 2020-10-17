@@ -1,7 +1,7 @@
 # ![twiiter-logo-20@2x](https://user-images.githubusercontent.com/49815957/95634372-c2b4e680-0a57-11eb-80c4-f74d676a2c7f.png) **Twitter** 
 
 
-**Twitter** is a basic twitter app to read your tweets.
+**Twitter** is a basic twitter app to view, compose, favorite, and retweet tweets.
 
 Time spent: **10** hours spent in total
 
@@ -29,3 +29,5 @@ Here's a walkthrough of implemented user stories:
 |Part 1|Part 2|
 |------------- | ------------- |
 |<img src='https://recordit.co/3658Dqrd4F.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />|<img src='http://g.recordit.co/PKq0RMj4sn.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />|
+
+
