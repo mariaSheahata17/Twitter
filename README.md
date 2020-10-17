@@ -3,7 +3,7 @@
 
 **Twitter** is a basic twitter app to read your tweets.
 
-Time spent: **8** hours spent in total
+Time spent: **10** hours spent in total
 
 ## User Stories
 
@@ -14,6 +14,9 @@ The following **required** functionality is completed:
 - [x] User can log out.
 - [x] User stays logged in across restarts. 
 - [x] User can view tweets with the user profile picture, username, and tweet text. 
+- [x] User can compose a tweet. 
+- [x] User can favorite a tweet. 
+- [x] User can retweet a tweet. 
 
 The following **bonus** features are implemented:
 
@@ -23,6 +26,6 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-|Part 1|Part 2|------------- | ------------- |<img src='https://recordit.co/3658Dqrd4F.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />|<img src='http://g.recordit.co/PKq0RMj4sn.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />|
-
-
+|Part 1|Part 2|
+|------------- | ------------- |
+|<img src='https://recordit.co/3658Dqrd4F.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />|<img src='http://g.recordit.co/PKq0RMj4sn.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />|
