@@ -17,9 +17,6 @@ The following **required** functionality is completed:
 - [x] User can compose a tweet. 
 - [x] User can favorite a tweet. 
 - [x] User can retweet a tweet. 
-
-The following **bonus** features are implemented:
-
 - [x] User can pull to refresh.
 
 ## Video Walkthrough
